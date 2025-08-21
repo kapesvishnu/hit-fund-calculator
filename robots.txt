@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://chitscalculator-68xic1hvh-vickys-projects-deedae11.vercel.app/sitemap.xml
+Sitemap: https://chitscalculator.vercel.app/sitemap.xml
